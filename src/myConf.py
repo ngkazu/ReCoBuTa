@@ -1,13 +1,13 @@
 # -*- coding: utf-8 -*-
 
 ## Twitter Auth Keys
-consumer_key= 'HMniUdxuZsWVN0W8jlMyxsXCU'
-consumer_secret= 'bwNe71UcTJWOdwp5shQOfOtH0zy8rlq71qc5XhamyipDCQm1Sd'
-access_token= '231368368-QJNaieJb3533vrkNseCFvWRyrM3BVPwqoe3Uh8ul'
-access_token_secret= 'SbVfDSzcuxCrAaJL1IIusQMXtE3FeoiY4jLsX0BBBfNBe'
+consumer_key= 'your_consumer_key'
+consumer_secret= 'your_consumer_secret'
+access_token= 'your_access_token'
+access_token_secret= 'your_access_token_secret'
 
 ## Twitter Account
-myAccount= 'myqk'
+myAccount= 'your_account'
 okAccount= ['ngkazu', 'cnn']
 
 ## Function
