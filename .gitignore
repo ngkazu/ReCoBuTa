@@ -1,0 +1,6 @@
++memo/
+tweepy/
+*.pyc
+*.log
+*.json
+*.txt
